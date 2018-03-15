@@ -1,0 +1,21 @@
+name,natural,reservoir_type,type,water,id,operator,landuse,note,source
+Barragem de rejeito do Fundão,water,tailings,multipolygon,reservoir,relation/5660721,,,,
+Barragem de rejeito de Santarém,water,tailings,multipolygon,reservoir,relation/5663488,Samarco,,,
+,,tailings,,,way/278423787,,reservoir,,
+,,tailings,,,way/278423790,,reservoir,,
+,,tailings,,,way/278423794,,reservoir,,
+,,tailings,,,way/295885951,,reservoir,,
+,water,tailings,,reservoir,way/379087167,,,barragem de rejeito,
+,water,tailings,,reservoir,way/379775414,,,,
+Barragem de rejeito do Germano,water,tailings,,reservoir,way/380112771,,,,
+Barragem de rejeiro do Germano,water,tailings,,reservoir,way/380113990,,,,
+Barragem de rejeito do Germano,water,tailings,,reservoir,way/380115625,,,,
+,,tailings,,,way/384973113,,reservoir,,
+,,tailings,,,way/384973114,,reservoir,,
+,,tailings,,,way/384973115,,reservoir,,
+,water,tailings,,wastewater,way/506579504,,reservoir,,
+,water,tailings,,wastewater,way/506579505,,reservoir,,
+,,tailings,,,way/518719904,,reservoir,,"Bing;DigitalGlobe Standard"
+,,tailings,,,way/518719908,,reservoir,,"Bing;DigitalGlobe Standard"
+Vinhaça/ Rejeito - Usina Alcoolvale,,tailings,,,way/541014883,,reservoir,,
+Usina Alcoolvale,,tailings,,,way/541028993,,reservoir,,
