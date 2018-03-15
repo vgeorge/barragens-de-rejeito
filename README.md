@@ -2,17 +2,15 @@
 
 Dados em formato aberto sobre barragens de rejeito no Brasil, feitos pela comunidade do OpenStreetMap.
 
-## baixe: [barragens-de-rejeito.zip](barragens-de-rejeito.zip)
+### baixe: [barrangens-de-rejeito.zip](https://github.com/vgeorge/barragens-de-rejeito/releases/latest)
 
-## O que é?
+## Objetivo
 
-O objetivo é tornar mais acessíveis dados sobre barragens de rejeito ao público em geral. No OpenStreetMap, é possível mapear barragens de rejeito aplicando a combinação etiqueta/valor `reservoir_type=tailings` em objetos do tipo [linha](https://wiki.openstreetmap.org/wiki/Pt:Linha) ou [relação](https://wiki.openstreetmap.org/wiki/Pt:Relation). Com o uso de um script, os dados do OpenStreetMap são baixados e transformados a diferentes formatos. 
+Este repositório foi criado para tonar mais acessíveis os dados no OpenStreetMap sobre barragens de rejeito. Com o uso de um script, os dados são baixados e transformados à maior variedade de formatos abertos possíveis.
 
 ## Como melhorar o mapa
 
-Se você é novo no OpenStreetMap, [crie uma conta](https://www.openstreetmap.org/user/new) e siga o tutorial do editor para aprender mapeamento básico. Reservatórios podem ser mapeados a partir de imagens de satélite com certa facilidade, se a sua localização aproximada for conhecida. 
-
-Este é um exemplo de uma barragem no editor web do OpenStreetMap:
+Se você é novo no OpenStreetMap, [crie uma conta](https://www.openstreetmap.org/user/new) e siga o tutorial do editor para aprender mapeamento básico. Reservatórios podem ser mapeados a partir de imagens de satélite com certa facilidade, se a sua localização aproximada for conhecida. Aplica-se a combinação etiqueta/valor `reservoir_type=tailings` em objetos do tipo [linha](https://wiki.openstreetmap.org/wiki/Pt:Linha) ou [relação](https://wiki.openstreetmap.org/wiki/Pt:Relation). Este é um exemplo de uma barragem no editor web do OpenStreetMap:
 
 ![Exemplo de barragem no editor web](exemplo-id.png)
 
@@ -46,7 +44,7 @@ out body;
 out skel qt;
 ```
 
-[Executar](http://overpass-turbo.eu/s/x1t)
+[Executar chamada no Overpass Turbo](http://overpass-turbo.eu/s/x1t)
 
 ## Referências
 
@@ -55,4 +53,6 @@ out skel qt;
 
 ## Licença
 
-[ODbL](https://www.openstreetmap.org/copyright)
+Código: [MIT](LICENSE)
+
+Dados: [ODbL](https://www.openstreetmap.org/copyright)
